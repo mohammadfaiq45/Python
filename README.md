@@ -3,10 +3,9 @@
 Welcome to my Python Data Analysis repository! This repository showcases various data analysis projects where I leverage Python and its libraries to extract meaningful insights from diverse datasets. Each project includes data exploration, visualization, and conclusion, helping in data-driven decision-making.
 
 ---
+## 📁 Projects
 
-## Projects
-
-### 1) Diwali Sales Analysis
+### 1. Diwali Sales Analysis
 
 This project analyzes sales data from a Diwali festival sale. The aim is to identify key patterns in customer demographics, purchasing behavior, and popular product categories.
 
@@ -34,5 +33,5 @@ I am continually expanding the repository with new projects covering a wide rang
 - Seaborn
 - Numpy
 
----
+
 
