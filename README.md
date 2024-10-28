@@ -24,9 +24,6 @@ Businesses targeting married women aged 26-35 from Uttar Pradesh, Maharashtra, a
 
 This project analyzes student test score data to identify key factors influencing academic performance. The aim is to determine which features most significantly affect test scores and to explore any interactions between these features.
 
-#### Analytics Questions:
-- What factors (features) affect test scores most?
-- Are there interacting features which affect test scores?
 
 #### Key Insights:
 - **Parental Education**: Higher levels of parental education are strongly correlated with better test scores in Math, Reading, and Writing.
